@@ -38,14 +38,14 @@
 ### websites:
 
 1. **pure bash bible** - a lot of prewritten bash scripts for everyday tasks
-2. [Awesome cli apps github repo](<(https://github.com/sindresorhus/awesome?tab=readme-ov-file)>)
-3. [a lot of command snippets](<commandlinefu.com>)
-4. tldp - guides and documentations for anything linux
-5. obv arch wiki. its probably the best linux website. it has EVERYTHING and a lot of links to more info
-6. shellcheck - show errors/warnings forshell scripts
-7. [bios vs uefi](<(https://www.rodsbooks.com/gdisk/booting.html)>)
-8. [performance guides, interesting read but gets quite deep into the tech](<https://www.brendangregg.com/linuxperf.html>)
-9. overthewire bandit. i made my friend do it before the linux exam and he got full marks. its a gamified learning for linux terminal
+2. **[Awesome cli apps github repo](<(https://github.com/sindresorhus/awesome?tab=readme-ov-file)>)**
+3. **[a lot of command snippets](<commandlinefu.com>)**
+4. **tldp** - guides and documentations for anything linux
+5. **obv** arch wiki. its probably the best linux website. it has EVERYTHING and a lot of links to more info
+6. **shellcheck** - show errors/warnings forshell scripts
+7. **[bios vs uefi](<(https://www.rodsbooks.com/gdisk/booting.html)>)**
+8. **[performance guides, interesting read but gets quite deep into the tech](<https://www.brendangregg.com/linuxperf.html>)**
+9. **overthewire bandit**. i made my friend do it before the linux exam and he got full marks. its a gamified learning for linux terminal
 
 ---
 

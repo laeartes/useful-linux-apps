@@ -34,6 +34,8 @@
 13. **ncdu** - disk usage explorer, faster than du
 14. **glances** - full system monitoring in terminal
 15. **glow** - proper markdown file reader in the terminal
+16. **yt-dlp** - ownload youtube vids. and more
+17. **freetube** - youtube desktop client with no ads and shit
 
 ### websites:
 
@@ -66,6 +68,9 @@
 6. **nyancat** - nyan cat animation in terminal
 7. **asciiquarium** - fish swimming in ASCII terminal
 8. **unimatrix** - matrix style terminal rain
+9. **pipes.sh** - pipes
+10. **cava** - music visualizer
+
 
 ---
 

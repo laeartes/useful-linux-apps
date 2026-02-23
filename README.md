@@ -24,7 +24,7 @@
 3. **advcpmv** - adding progress bars and stuff to cp/mv
 4. **rsync**   - very good tool to move files to either diff dir, disk or even over the net. theres a lot to it
 5. **bat** - AMAZING cat clone. syntax highlighting, git integration and more. i alias cat to be bat.a lot of customization
-6. **pywall16** - adjust colour scheme based on wallpaper
+6. **pywal** - adjust colour scheme based on wallpaper
 7. **ffmpeg** - everything video related actually. i use it to generate all videos that swagpoolr sends - i compress, edit, combine and convert in ffmpeg. also danser uses it
 8. **fzf** amazing fuzzy finder
 9. **zoxide** - better cd (i alias cd to zoxide XD)
